@@ -1,0 +1,3 @@
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/cmake-build-debug/CMakeFiles/Projeto_EX1.dir

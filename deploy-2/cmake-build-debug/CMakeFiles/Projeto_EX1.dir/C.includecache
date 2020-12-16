@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/fs/operations.c
+operations.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/fs/operations.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/fs/operations.h
+state.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/fs/state.h
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/fs/state.c
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+state.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/fs/state.h
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/fs/state.h
+stdio.h
+-
+stdlib.h
+-
+../tecnicofs-api-constants.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/tecnicofs-api-constants.h
+pthread.h
+-
+errno.h
+-
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pthread.h
+-
+fs/operations.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/fs/operations.h
+sys/time.h
+-
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-2/tecnicofs-api-constants.h
+
