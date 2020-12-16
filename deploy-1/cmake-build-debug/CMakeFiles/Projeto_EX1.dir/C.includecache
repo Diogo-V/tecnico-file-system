@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-1/fs/operations.h
+state.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-1/fs/state.h
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-1/fs/state.h
+stdio.h
+-
+stdlib.h
+-
+../tecnicofs-api-constants.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-1/tecnicofs-api-constants.h
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-1/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pthread.h
+-
+fs/operations.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-1/fs/operations.h
+sys/time.h
+-
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/entrega-1/tecnicofs-api-constants.h
+
