@@ -1,10 +1,15 @@
-# SO Project 2020-21
-- ex1 deploy date: 17/10 at 12 AM
-- ex2 deploy date: 18/11 at 12 PM
-- ex3 deploy date: 4/12 at 12 PM
+# Description:
+Program that simulates a server-client interaction in which the server holds a file system and the client makes requests to it using a socket. <br />
+The server has multiple threads of execution using fine locking and can hold more than 1000 threads. <br />
+Sockets are created in /tmp directory
 
 ## How to run
 Execute the following command:
 ```
-./tecnicofs-client <inputfile> <server_socket_name>
+make
+./tecnicofs <number_of_threads> <socket_name>
+cd client
+make
+./tecnicofs-client <inputfile> <server_socket_path>
 ```
+
