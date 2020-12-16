@@ -1,4 +1,10 @@
-# SO Project 2020-21
-- ex1 deploy date: 17/10 at 12 AM
-- ex2 deploy date: 18/11 at 12 PM
-- ex3 deploy date: 4/12 at 12 PM
+# Description:
+Program that simulates a file system with multiple threads that recieves an input file to processe and writes output tree in output file. <br />
+Uses fine locking and because of that, is very efficient
+
+## How to run
+Execute the following command:
+```
+make
+./tecnicofs <inputfile> <outputfile> <numthreads>
+```
