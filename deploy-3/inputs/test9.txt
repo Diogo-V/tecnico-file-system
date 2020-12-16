@@ -1,0 +1,8 @@
+c /a d
+c /a/b/ d
+c /a/b/c/ d
+c /a/b/c/d/ d
+c /a/b/c/d/file f
+m /a/b/c/d/file /a/b/c/file
+l /a/b/c/d/file
+l /a/b/c/file

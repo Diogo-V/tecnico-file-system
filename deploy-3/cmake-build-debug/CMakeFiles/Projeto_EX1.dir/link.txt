@@ -1,0 +1,1 @@
+/usr/bin/cc  -g -ansi -Wall -Wextra -pthread -lm -g   CMakeFiles/Projeto_EX1.dir/main.c.o CMakeFiles/Projeto_EX1.dir/fs/operations.c.o CMakeFiles/Projeto_EX1.dir/fs/state.c.o CMakeFiles/Projeto_EX1.dir/client/tecnicofs-client-api.c.o CMakeFiles/Projeto_EX1.dir/client/tecnicofs-client.c.o  -o Projeto_EX1 

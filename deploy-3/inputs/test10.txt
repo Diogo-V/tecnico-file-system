@@ -1,0 +1,4 @@
+c /a d
+c /b d
+c /a/file f
+m /a/file /b/file

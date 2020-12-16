@@ -1,0 +1,4 @@
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/cmake-build-debug/CMakeFiles/Client.dir
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/cmake-build-debug/CMakeFiles/Server.dir

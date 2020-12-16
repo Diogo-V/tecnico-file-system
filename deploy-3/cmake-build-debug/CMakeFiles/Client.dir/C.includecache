@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/client/tecnicofs-client-api.c
+tecnicofs-client-api.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/client/tecnicofs-client-api.h
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/socket.h
+-
+sys/un.h
+-
+stdio.h
+-
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/client/tecnicofs-client-api.h
+../tecnicofs-api-constants.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/tecnicofs-api-constants.h
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/client/tecnicofs-client.c
+stdio.h
+-
+stdlib.h
+-
+tecnicofs-client-api.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/client/tecnicofs-client-api.h
+../tecnicofs-api-constants.h
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/tecnicofs-api-constants.h
+
+/home/diogovenancio/Desktop/Coding/Faculdade/Sistemas Operativos/Projeto/tecnicofs-api-constants.h
+

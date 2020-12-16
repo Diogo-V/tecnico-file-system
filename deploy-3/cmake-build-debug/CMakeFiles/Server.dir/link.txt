@@ -1,0 +1,1 @@
+/usr/bin/cc  -g -ansi -Wall -Wextra -pthread -lm -g   CMakeFiles/Server.dir/main.c.o CMakeFiles/Server.dir/fs/operations.c.o CMakeFiles/Server.dir/fs/state.c.o  -o Server 

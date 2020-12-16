@@ -1,0 +1,1 @@
+/usr/bin/cc  -g -ansi -Wall -Wextra -pthread -lm -g   CMakeFiles/Client.dir/client/tecnicofs-client-api.c.o CMakeFiles/Client.dir/client/tecnicofs-client.c.o  -o Client 
